@@ -12,15 +12,15 @@ void copyImage(int **oData, int **rData, int height, int width) {
 }
 
 void imgNegation(int **oData, int **rData, int height, int width) {
-	// TODO: write your code
+  // TODO: write your code
 }
 
 void thresholding(int **oData, int **rData, int height, int width) {
-	// TODO: write your code
+  // TODO: write your code
 }
 
 void histogramStretching(int **oData, int **rData, int height, int width) {
-	// TODO: write your code
+  // TODO: write your code
 }
 
 void medianFilter(int **oData, int **rData, int height, int width) {
@@ -28,7 +28,7 @@ void medianFilter(int **oData, int **rData, int height, int width) {
 }
 
 void gaussianFilter(int **oData, int **rData, int height, int width) {
-	// 7x7 Gaussian filter window (you must divide the convolution result by 1003 at last)
+  // 7x7 Gaussian filter window (you must divide the convolution result by 1003 at last)
   int gauss[7][7] = {{0,  0,  1,   2,  1,  0, 0},      
                      {0,  3, 13,  22, 13,  3, 0},
                      {1, 13, 59,  97, 59, 13, 1}, 
