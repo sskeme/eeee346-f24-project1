@@ -1,0 +1,6 @@
+The following resulting files must be present here:
+  negation.pgm
+  thresholding.pgm
+  stretching.pgm
+  median.pgm
+  gaussian.pgm
