@@ -1,2 +1,2 @@
 # Instructions
-We use Google Docs in case the instructions are updated in the future. Click [here](https://docs.google.com/document/d/1rEEaJnEArRRyUANNrnOJrp9H2k9hSX6p-W2t9y_OUFQ/edit?usp=sharing).
+Please see the attached PDF file (EEEE346-Project1-Instructions-F24.pdf)
